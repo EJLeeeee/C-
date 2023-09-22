@@ -1,0 +1,6 @@
+
+.wrapper>footer{height: 10vh;border: 1px solid;position: absolute;bottom: 0;width: 100%;}
+.wrapper>footer> .wrapper-foot{}
+.wrapper>footer> .wrapper-foot> .setting{}
+.wrapper>footer> .wrapper-foot> .calender{}
+
