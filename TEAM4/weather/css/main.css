@@ -1,0 +1,13 @@
+.wrapper>main{border: 1px solid red;position: absolute; width: 100%;
+top:10vh;
+bottom: 10vh;}
+.wrapper>main> .wrapper-body{}
+.wrapper>main> .wrapper-body>section:nth-child(1)> .addr{}
+.wrapper>main> .wrapper-body>section:nth-child(1)> .weather-icon{}
+.wrapper>main> .wrapper-body>section:nth-child(1)> .weather-text{}
+
+.wrapper>main> .wrapper-body>section:nth-child(2)> .says{
+    /* display: flex;
+    justify-content: center;
+     */
+}
